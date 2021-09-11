@@ -6,9 +6,10 @@ Generates a random photo after you click the button!
 ```
 git clone https://github.com/michael21910/swift-random-photo-generator.git
 ```
+* Open it using xcode, press "command + R"
   
 ## What will you get :icecream:
-After cloning this repository, run in on xcode and then press "command + R" to open the simulator.  
+An app that shows different photos and background colors after you press the "click me!" button.
   
 ## Demo :eyes:
 
