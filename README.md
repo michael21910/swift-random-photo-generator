@@ -14,3 +14,5 @@ An app that shows different photos and background colors after you press the "cl
 ## Demo :eyes:
 
 [swift-random-photo-generator](https://user-images.githubusercontent.com/78197510/132942458-d919a77f-7a59-4c98-9c55-e38544a98a16.mp4)
+  
+Michael Hsueh 09/11/2021
